@@ -1,48 +1,62 @@
-# 🛒 E-Commerce Website Index
+# 🛒 The Jarvis Cart
 
-This is a simple **E-Commerce Website Project**.  
-It contains a basic homepage (`index.html`) along with sample product images.  
+### An E-Commerce Website Project
 
----
+Welcome to **The Jarvis Cart** — a student-built e-commerce website project focused on creating a simple online shopping experience with a product-oriented homepage.
+
+## ✨ Features
+
+- 🏠 Simple e-commerce homepage
+- 🛍️ Sample product images
+- 🎨 Visual product presentation
+- 📁 Organized project assets
+- 🌱 A foundation for future improvements
+
+## 🧰 Technologies
+
+- HTML5
+- CSS (where used in the project)
+
+## 📸 Project Preview
+
+*Project screenshots will be added here.*
 
 ## 📂 Project Structure
-- `index.html` → Main homepage file  
-- `gulab_chand.jpeg` → Sample team image  
-- `hemant_chand.jpg` → Sample team image
-- `Bracelet.png` → Sample product image
-- `Watch.png` → Sample product image
-- `goggle.png` → Sample product image
-- `fashion_jwl.png` → Sample product image  
-- `.github/workflows/` → GitHub Actions workflows  
 
----
+```text
+The_Jarvis_Cart/
+├── images/
+├── .github/
+├── index.html
+├── login.html
+└── README.md
+```
 
-## 🚀 How to Run
-1. Clone this repository  
+## 🚀 Getting Started
+
+1. Clone the repository:
+
    ```bash
-   git clone https://github.com/YourUsername/your-repo-name.git
+   git clone https://github.com/hemant-chandra/The_Jarvis_Cart.git
+   ```
 
-2. Open the index.html file in any browser.
+2. Open the project folder.
+3. Open `index.html` in your browser.
 
+## 🔮 Future Improvements
 
+- Responsive design for mobile devices
+- Improved product browsing experience
+- Enhanced login interface
+- Shopping cart functionality
 
+## 👨‍💻 Author
 
----
+**Hemant Chandra**
 
-📌 Features
-
-Simple homepage design
-
-Product image support
-
-Clean and expandable structure
-
-
-
----
-
-👨‍💻 Author
-
-Developed by HEMANT-CHANDRA
+- GitHub: [@hemant-chandra](https://github.com/hemant-chandra)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/hemant-chand/)
 
 ---
+
+<p align="center">Built with 💻 and a passion for learning.</p>
