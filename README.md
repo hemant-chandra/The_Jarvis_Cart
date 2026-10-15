@@ -19,7 +19,7 @@ Welcome to **The Jarvis Cart** — a student-built e-commerce website project fo
 
 ## 📸 Project Preview
 
-*Project screenshots will be added here.*
+![The Jarvis Cart Website Preview](./jarvis-cart-preview.png)
 
 ## 📂 Project Structure
 
